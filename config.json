@@ -1,0 +1,43 @@
+{
+  "account": {
+    "username": "@viralfindsnoww",
+    "display_name": "HotPickVault",
+    "bio": "Smart eco home & garden hacks | Plant care tips | Sustainable living 🌱",
+    "niche": "viral_products_and_trends"
+  },
+  "content_strategy": {
+    "posts_per_day": 2,
+    "optimal_times": ["09:00", "17:00", "21:00"],
+    "video_length": "15-60",
+    "content_types": [
+      "product_reviews",
+      "before_after",
+      "life_hacks",
+      "trending_finds",
+      "amazon_must_haves"
+    ]
+  },
+  "monetization": {
+    "target_followers": 10000,
+    "target_views": 100000,
+    "affiliate_programs": [
+      "Amazon Associates",
+      "TikTok Shop"
+    ],
+    "creator_rewards_eligible": false
+  },
+  "trending_categories": [
+    "smart_home",
+    "kitchen_gadgets",
+    "organization",
+    "beauty",
+    "garden_tools",
+    "eco_products"
+  ],
+  "automation": {
+    "auto_generate_ideas": true,
+    "daily_trend_research": true,
+    "schedule_posts": true,
+    "analytics_tracking": true
+  }
+}
